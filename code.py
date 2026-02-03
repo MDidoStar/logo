@@ -13,7 +13,7 @@ st.set_page_config(
 # -------------------------------
 # Load logo safely (GitHub + Cloud)
 # -------------------------------
-logo = Image.open("assets/blink_logo.png")
+logo = Image.open("blink_logo.png")
 
 # -------------------------------
 # Top navbar logo (Streamlit native)
